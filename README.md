@@ -1,4 +1,4 @@
-### Shandiya Balasubramaniam
+### Shandiya (SUN-dia) Balasubramaniam 
 
 Hello!
 
