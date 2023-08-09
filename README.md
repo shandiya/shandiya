@@ -1,6 +1,7 @@
-### Shandiya (SUN-dia) Balasubramaniam 
+### Shandiya Balasubramaniam 
+[*(how to say my name)*](https://github.com/shandiya/shandiya/blob/main/name_pronunciation.mp3?raw=true)
 
-Hello!
+Hello!  
 
 I'm a data analyst at the [Atlas of Living Australia](https://www.ala.org.au), where I work on 
 projects that align with [FAIR](https://www.nature.com/articles/sdata201618) data principles. 
@@ -18,4 +19,3 @@ sometimes make [art with R](https://github.com/shandiya/variations-on-a-theme).
 - 2020: Associate Data Analyst, EPA Victoria  
 - 2016-2020: Ian Potter Biodiversity Research Fellow, Museums Victoria  
 - 2016: Phd, University of Melbourne   
-
