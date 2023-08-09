@@ -1,5 +1,6 @@
 ### Shandiya Balasubramaniam 
-[*(how to say my name)*](https://github.com/shandiya/shandiya/blob/main/name_pronunciation.mp3?raw=true)
+how to say my name:
+https://github.com/shandiya/shandiya/assets/25561324/2c141548-287e-4372-b6e3-ca67e45f354d
 
 Hello!  
 
