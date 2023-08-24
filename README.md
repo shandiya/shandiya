@@ -18,4 +18,4 @@ sometimes make [art with R](https://github.com/shandiya/variations-on-a-theme).
 - 2021: Senior Geospatial Data Analyst, EPA Victoria  
 - 2020: Associate Data Analyst, EPA Victoria  
 - 2016-2020: Ian Potter Biodiversity Research Fellow, Museums Victoria  
-- 2016: Phd, University of Melbourne   
+- 2016: PhD, University of Melbourne   
