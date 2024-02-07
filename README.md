@@ -8,7 +8,7 @@ projects that align with [FAIR](https://www.nature.com/articles/sdata201618) dat
 In a former life I was a conservation biologist. When I'm not coding for work or looking at birds, I 
 sometimes make [art with R](https://github.com/shandiya/variations-on-a-theme).  
 
-- :globe_with_meridians: [Website](https://shandiya.netlify.app)  
+- :globe_with_meridians: [Website](https://shandiya.com)  
 - :bird: [Twitter](https://twitter.com/ShandiyaB)   
 - :briefcase: [LinkedIn](https://linkedin.com/in/shandiya)   
 
