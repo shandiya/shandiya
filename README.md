@@ -9,7 +9,7 @@ In a former life I was a conservation biologist. When I'm not coding for work or
 sometimes make [art with R](https://github.com/shandiya/variations-on-a-theme).  
 
 - :globe_with_meridians: [Website](https://shandiya.com)  
-- :bird: [Twitter](https://twitter.com/ShandiyaB)   
+- 🦋 [Bluesky](https://bsky.app/profile/shandiya.bsky.social)
 - :briefcase: [LinkedIn](https://linkedin.com/in/shandiya)   
 
 **Career Summary**
